@@ -14,3 +14,7 @@
 <https://blog.csdn.net/qq_34864753/article/details/70147172>  
 <https://www.jianshu.com/p/856d1d420854>  
 <https://www.cnblogs.com/timtike/p/5887997.html>  
+
+### 备注
+
+竖屏攻略截图文件，原图文件名排列存在问题，需要修正。
